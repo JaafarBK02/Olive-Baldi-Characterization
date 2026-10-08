@@ -1,0 +1,9 @@
+earthengine-api
+numpy
+pandas
+scipy
+scikit-learn
+shapely>=2.0
+pyproj
+matplotlib
+jupyter

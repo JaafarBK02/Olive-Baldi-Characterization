@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.geojson
+*.csv
+farm_boundary.json

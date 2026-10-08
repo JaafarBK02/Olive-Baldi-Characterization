@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9aa5ad"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1200" height="330" rx="16" fill="#fbfaf6"/>
+
+  <!-- progress track -->
+  <line x1="150" y1="42" x2="1050" y2="42" stroke="#d9dee2" stroke-width="4"/>
+  <line x1="150" y1="42" x2="450" y2="42" stroke="#2e7d32" stroke-width="4"/>
+  <line x1="450" y1="42" x2="560" y2="42" stroke="#c9902a" stroke-width="4" stroke-dasharray="8 6"/>
+  <circle cx="150" cy="42" r="14" fill="#2e7d32"/>
+  <path d="M143,42 l5,5 l9,-10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="450" cy="42" r="14" fill="#fff" stroke="#c9902a" stroke-width="4"/>
+  <circle cx="450" cy="42" r="6" fill="#c9902a"/>
+  <circle cx="750" cy="42" r="14" fill="#fff" stroke="#b0bac1" stroke-width="4"/>
+  <circle cx="1050" cy="42" r="14" fill="#fff" stroke="#b0bac1" stroke-width="4"/>
+
+  <!-- Card 1 -->
+  <g transform="translate(25,78)">
+    <rect width="250" height="230" rx="12" fill="#ffffff" stroke="#cfe3d1" stroke-width="1.5"/>
+    <rect width="250" height="8" rx="4" fill="#2e7d32"/>
+    <text x="20" y="38" font-size="13" font-weight="700" fill="#2e7d32" letter-spacing="1">PHASE 1</text>
+    <rect x="160" y="22" width="72" height="22" rx="11" fill="#e3f1e4"/>
+    <text x="196" y="37.5" font-size="12" font-weight="700" fill="#2e7d32" text-anchor="middle">DONE</text>
+    <text x="20" y="72" font-size="20" font-weight="700" fill="#1f2a30">Satellite zoning</text>
+    <text font-size="15" fill="#3d4a52">
+      <tspan x="20" y="106">10 years of Sentinel-2</tspan>
+      <tspan x="20" y="130">→ 3 stable zones</tspan>
+      <tspan x="20" y="154">→ 3 representative trees</tspan>
+    </text>
+    <text x="20" y="206" font-size="13" fill="#7a868e">Imagery 2017–2026</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(325,78)">
+    <rect width="250" height="230" rx="12" fill="#ffffff" stroke="#ecd9b0" stroke-width="1.5"/>
+    <rect width="250" height="8" rx="4" fill="#c9902a"/>
+    <text x="20" y="38" font-size="13" font-weight="700" fill="#a8741a" letter-spacing="1">PHASE 2</text>
+    <rect x="128" y="22" width="104" height="22" rx="11" fill="#fbefd6"/>
+    <text x="180" y="37.5" font-size="12" font-weight="700" fill="#a8741a" text-anchor="middle">IN PROGRESS</text>
+    <text x="20" y="72" font-size="20" font-weight="700" fill="#1f2a30">Lab characterization</text>
+    <text font-size="15" fill="#3d4a52">
+      <tspan x="20" y="106">3 kg of olives pressed weekly</tspan>
+      <tspan x="20" y="130">Polyphenols + other</tspan>
+      <tspan x="20" y="154">quality parameters</tspan>
+    </text>
+    <text x="20" y="206" font-size="13" fill="#7a868e">Every Monday since Sep 28, 2026</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(625,78)">
+    <rect width="250" height="230" rx="12" fill="#ffffff" stroke="#dde2e6" stroke-width="1.5"/>
+    <rect width="250" height="8" rx="4" fill="#90a0aa"/>
+    <text x="20" y="38" font-size="13" font-weight="700" fill="#66757e" letter-spacing="1">PHASE 3</text>
+    <rect x="152" y="22" width="80" height="22" rx="11" fill="#eef1f3"/>
+    <text x="192" y="37.5" font-size="12" font-weight="700" fill="#66757e" text-anchor="middle">PLANNED</text>
+    <text x="20" y="72" font-size="20" font-weight="700" fill="#1f2a30">Correlation</text>
+    <text font-size="15" fill="#3d4a52">
+      <tspan x="20" y="106">Lab ripening curves vs.</tspan>
+      <tspan x="20" y="130">satellite indices</tspan>
+      <tspan x="20" y="154">(NDVI · NDRE · NDMI)</tspan>
+    </text>
+    <text x="20" y="206" font-size="13" fill="#7a868e">After the 2026 harvest</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(925,78)">
+    <rect width="250" height="230" rx="12" fill="#ffffff" stroke="#dde2e6" stroke-width="1.5"/>
+    <rect width="250" height="8" rx="4" fill="#90a0aa"/>
+    <text x="20" y="38" font-size="13" font-weight="700" fill="#66757e" letter-spacing="1">PHASE 4</text>
+    <rect x="152" y="22" width="80" height="22" rx="11" fill="#eef1f3"/>
+    <text x="192" y="37.5" font-size="12" font-weight="700" fill="#66757e" text-anchor="middle">PLANNED</text>
+    <text x="20" y="72" font-size="20" font-weight="700" fill="#1f2a30">Predict &amp; monitor</text>
+    <text font-size="15" fill="#3d4a52">
+      <tspan x="20" y="106">Harvest timing predicted</tspan>
+      <tspan x="20" y="130">from imagery</tspan>
+      <tspan x="20" y="154">Year-round farm monitoring</tspan>
+    </text>
+    <text x="20" y="206" font-size="13" fill="#7a868e">2027 season</text>
+  </g>
+
+  <!-- arrows between cards -->
+  <line x1="280" y1="193" x2="318" y2="193" stroke="#9aa5ad" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="580" y1="193" x2="618" y2="193" stroke="#9aa5ad" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="880" y1="193" x2="918" y2="193" stroke="#9aa5ad" stroke-width="2.5" marker-end="url(#arr)"/>
+</svg>
