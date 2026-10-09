@@ -149,7 +149,7 @@ The notebook was developed on Google Colab and needs a [Google Earth Engine](htt
 
 ## Author
 
-**Jaafar Ben Khaled**, San José State University. Lab characterization in collaboration with an olive biochemistry research lab in Tunisia.
+**Jaafar Ben Khaled**, San José State University · [LinkedIn](https://www.linkedin.com/in/jaafarbenkhaled/). Lab characterization in collaboration with an olive biochemistry research lab in Tunisia.
 
 ## License
 
