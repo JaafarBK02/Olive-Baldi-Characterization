@@ -51,7 +51,7 @@ What these autumn signals mean for the olives (ripening, water stress, polypheno
 
 **Question:** the lab can only analyze a few trees. Which trees represent the farm, and does the farm have distinct parts that behave differently?
 
-**The farm:** 5.83 ha, about 100 trees/ha, rainfed (no irrigation), on a north-facing mountain slope between 167 and 195 m altitude.
+**The study area:** 5.83 ha of the farm (which is a little over 6 ha in total), about 100 trees/ha (~580 trees), rainfed (no irrigation), on a north-facing mountain slope between 167 and 195 m altitude.
 
 ### Method
 
